@@ -1,4 +1,5 @@
 <p align=center><img width=200 src="https://i.postimg.cc/vHWnbKQk/lean.png"></img></p>
+
 # Lean
 A simple, lightweight lag switch I created for fun which utilizes [netsh](https://docs.microsoft.com/en-us/windows-server/networking/technologies/netsh/netsh-contexts) commands on Windows to throttle your network. I wrote this program initially to get away with skipping certain parts of online classes to go grab snacks from my refrigerator, as I could simulate high latency, and lag.
 
@@ -17,4 +18,4 @@ java -jar Lean.jar
 
 ## License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Lean is licensed under the [MIT License](https://opensource.org/licenses/MIT).
