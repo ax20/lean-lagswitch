@@ -11,7 +11,7 @@ Small projects like this help me gain a better understand of how to certain thin
 ## Usage
 This program is depandant on Windows as the main function works uses the Windows Command line. 
 
-To run this program you can download the [compiled version](https://github.com/C403G/Lean/releases) of this project is available for download, and is ready to run out of the box. If you cannot double-click run the file, you can execute via the command below or use a third-party application that fixes this issue automatically called [JarFix by Johann N. Löfflmann](http://johann.loefflmann.net/en/software/jarfix/index.html)
+To run this program you can get the [compiled version](https://github.com/C403G/Lean/releases) of this project which is available for download, and is ready to run out of the box. If you cannot double-click run the file, you can execute via the command below or use a third-party application that fixes this issue automatically called [JarFix by Johann N. Löfflmann](http://johann.loefflmann.net/en/software/jarfix/index.html)
 ```cmd
 java -jar Lean.jar
 ```
