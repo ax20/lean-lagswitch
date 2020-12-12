@@ -3,6 +3,7 @@
 # Lean
 A simple, lightweight lag switch I created for fun which utilizes [netsh](https://docs.microsoft.com/en-us/windows-server/networking/technologies/netsh/netsh-contexts) commands on Windows to throttle your network. I wrote this program initially to get away with skipping certain parts of online classes to go grab snacks from my refrigerator, as I could simulate high latency, and lag.
 
+
 ## Skills/Experience
 Small projects like this help me gain a better understand of how to certain things work together, in this case [managed languages](https://docs.microsoft.com/en-us/dotnet/standard/managed-code) and [command languages](https://www.computerhope.com/jargon/c/commandl.htm) and how to utilize it effectively.
 - Building GUI Interfaces in Java using [WindowBuilder](https://www.eclipse.org/windowbuilder/)
