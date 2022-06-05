@@ -1,3 +1,5 @@
+![Last Coded](https://img.shields.io/badge/last%20updated-january%202020-red)
+
 # Lean
 A simple, lightweight lag switch I created for fun which utilizes [netsh](https://docs.microsoft.com/en-us/windows-server/networking/technologies/netsh/netsh-contexts) commands on Windows to throttle your network. I wrote this program initially to get away with skipping certain parts of online classes to go grab snacks from my refrigerator, as I could simulate high latency, and lag.
 
